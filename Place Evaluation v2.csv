@@ -1,0 +1,101 @@
+store name,latitude,longitude,Address,city,state,checkins,Location Realness
+Cornucopia,29.61167,-94.04297,8886 Thorne Lane ,Port Arthur,TX,3867,Real
+The Corner Store,36.169693,-75.75765,435 Osseo Rd,Duck,NC,135,Real
+Sweet Spot,36.95753,-122.01734,8409 North Rockledge Road ,Santa Cruz,CA,75,Real
+Decorama Boutique,41.51297,-71.32314,3245 Thornton avenue,Newport,RI,5525,Real
+One of a Kind Studio,26.871365,-82.31378,65 Rosewood St. ,Placida,FL,183,Real
+Not Just Groceries,25.971457,-81.726715,Framingham Hwy,Marco Island,FL,243,Real
+The Full Cart,25.789354,-80.18314,754 Oak St. ,Miami,FL,1335,Real
+Dollar Savings Store,47.601265,-122.3381,Baltimore Rd,Seattle,WA,388,Real
+Healthy Treats,38.84106,-76.53938,639 Middle River Avenue ,Galesville,MD,639,Real
+Farm to Shelf,38.02516,-75.23328,New Rochelle driveway,Chincoteague,VA,308,Real
+Spice Heaven,27.178757,-80.17324,8314 Bay St. ,Stuart,FL,278,Real
+Authentic Shoppe,36.60403,-121.89241,Gurnee hwy,Monterey,CA,71,Real
+Fun KnickKnacks,40.64144,-73.199455,8311 Newbridge St. ,Islip,NY,1458,Real
+Handmade & Precious,41.3973,-70.45164,Royal Oak,Edgartown,MA,107,Real
+Made with Love,42.03109,-70.194435,920 S. Cherry Drive ,Provincetown,MA,77,Real
+The Mega Store,36.169525,-75.75766,Lancaster Rd,Duck,NC,774,Real
+Plentiful Online,37.03596,-76.2896,831 Cardinal St. ,Hampton,VA,926,Real
+The Ladies Space,40.754433,-73.95256,678 Colonial Heights,New York,NY,201,Real
+Green Organica,44.10125,-69.10657,910 Wild Rose Dr. ,Rockland,ME,348,Closed
+Wholesome,41.70477,-71.177246,87 Port Orange drive,Somerset,MA,195,Real
+Sport Quest,48.285706,-122.63283,8991 Pilgrim Court ,Oak Harbor,WA,80,Real
+Sport Everything,43.84259,-69.605736,Crown Point avenue,Boothbay,ME,106,Real
+Sport Think,47.63246,-122.37931,763 Bellevue Lane ,Seattle,WA,547,Real
+Sport Royale,33.344154,-118.32422,Silver Spring Rd,Avalon,CA,166,Real
+Sport Total,30.393255,-86.51094,1 Pilgrim Drive ,Destin,FL,399,Real
+Sport Dynasty,37.45472,-121.92842,76 Dearborn St.,San Jose,CA,322,Real
+Sport Fit,41.165855,-72.21887,9378 SE. Stonybrook Dr. ,Southold,NY,198,Real
+Sportology,42.053185,-70.14012,Shirley drive,Provincetown,MA,79,Real
+Sport Scope,38.864307,-75.06271,616 Grandrose Street ,Cape May,DE,182,Real
+Sport Bank,42.04975,-70.18242,Sicklerville highway,Provincetown,MA,374,Real
+Sport Victory,47.98792,-122.59929,43 North Henry Drive ,null,WA,78,Real
+Sportfluent,36.08142,-75.78633,Granger Drive,Poplar Branch,NC,125,Real
+Sport Shot,37.750656,-122.24442,279 Nut Swamp Road ,Alameda,CA,356,Real
+Sport Native,20.90012,-156.68848,34 Fort Wayne ,Lahaina,HI,98,Real
+Sport King,55.33914,-131.64542,7302 Lookout Rd,Ketchikan,AK,656,Real
+Sportry,34.409657,-119.68574,Chesapeake ave,Santa Barbara,CA,2438,Real
+Sport Traction,40.73144,-73.9632,534 Gates Ave,New York,NY,459,Real
+Sport Shine,40.853405,-73.95585,Wilson st,Fort Lee,NJ,97,Real
+Sportcouch,36.960545,-122.020584,309 Old University St. ,Santa Cruz,CA,72,Real
+Sportjet,48.02334,-123.00682,Apiture rd,Sequim,WA,221,Real
+Sport Spring,39.486164,-76.1042,Trussville drive,Aberdeen,MD,428,Real
+Lifestyle Bar,43.656044,-70.25004,8870 Lake St. ,Portland,ME,233,Real
+Luxuriate Bar,40.714474,-73.97342,65 Euless,New York,NY,75,Real
+Clever Bar,41.705997,-71.1629,473 Young Court ,Fall River,MA,105,Real
+Tracking Bar,27.883911,-82.56596,59 Londonderry,Tampa,FL,712,Real
+Area Bar,41.70592,-71.16319,53 Baker Ave. ,Fall River,MA,171,Real
+Metrics Bar,34.409943,-119.685684,Jeffersonville,Santa Barbara,CA,232,Real
+Loop Bar,41.70591,-71.16281,7273 East Lees Creek Dr. ,Fall River,MA,213,Real
+Shanti Bar,24.682573,-81.22793,Mount Holly,Key West,FL,211,Real
+Flow Bar,25.754803,-80.19162,260 East Selby Ave.,Miami,FL,98,Real
+Lucid Bar,46.234856,-123.87189,Moncks Corner,Astoria,OR,1407,Real
+Joy Bar,39.59669,-74.28553,704 East Yukon Street ,Manahawkin,NJ,90,Real
+Knick Bar,30.327206,-81.62542,Clarkston st,Jacksonville,FL,995,Real
+Improve Bar,26.087729,-80.11976,32 Monroe Avenue ,Hollywood,FL,85,Real
+Plants Bar,36.604412,-121.89263,Oconomowoc drive,Monterey,CA,229,Real
+Frosted Bar,27.643873,-82.661354,12 Arch Ave. ,Ruskin,FL,1233,Real
+Ultra Bar,26.54011,-81.95039,Reidsville highway,Cape Coral,FL,335,Real
+Happy Bar,48.60268,-122.81548,326 Pleasant Court ,Orcas,WA,79,Real
+Joker Bar,25.848274,-80.17208,Lakeville st,Miami,FL,109,Real
+Gladiator Bar,36.96037,-122.02039,882 Creekside Circle ,Santa Cruz,CA,168,Real
+Love Bar,37.454292,-121.927795,Portage ave,San Jose,CA,175,Real
+H20 Bar,32.965576,-117.25472,632 Rose Lane ,San Diego,CA,927,Real
+Amethyst Bar,39.584316,-75.59146,Johnston st,Red Lion,DE,73,Real
+Bo Bar,40.705135,-73.989006,360 Brickell St. ,New York,NY,214,Fake
+Inline Bar,36.96424,-76.41234,Mundelein,Newport News,VA,83,Real
+Capitol Bar,36.603645,-121.89286,449 South University Drive ,Monterey,CA,365,Real
+Family Bar,36.95842,-122.01781,Millington ave,Santa Cruz,CA,118,Real
+Ritzy Bar,27.632704,-82.665886,129 Wayne Street ,Ruskin,FL,1995,Real
+Thorad Bar,40.760876,-73.95244,Fuquay Varina,New York,NY,2139,Real
+Flavor Bar,42.344833,-70.98283,8267 Mountainview Avenue ,Boston,MA,2926,Real
+Tinged Bar,30.391733,-88.89227,Stillwater st,Biloxi,MS,218,Real
+Serendipity Bar,34.410526,-119.68575,4 South Halifax Street ,Santa Barbara,CA,161,Real
+Clique Bar,36.60439,-121.892654,Centreville st,Monterey,CA,750,Real
+Ray Bar,27.503258,-82.67066,8987 Glen Ridge St. ,Bradenton,FL,169,Real
+Brightness Bar,27.503256,-82.67067,Buckeye drive,Bradenton,FL,143,Real
+Duchess Bar,30.391758,-88.89021,560 E. Lafayette Street ,Biloxi,MS,190,Real
+Majestic Bar,41.184284,-71.58139,Suite C ,New Shoreham,RI,104,Real
+Solution Bar,40.87752,-73.92222,Brookline ave,New York,NY,87,Real
+Domestic Bar,37.805256,-122.370674,9038 Lancaster Court ,San Francisco,CA,157,Real
+Insights Bar,27.936563,-82.46529,Des Moines ave,Tampa,FL,137,Real
+Mend Bar,21.36763,-157.96402,35 Heritage Avenue ,Honolulu,HI,98,Fake
+Aspire Bar,42.361076,-71.0305,Hyattsville freeway,Boston,MA,88,Real
+Clutch Bar,27.626421,-82.65998,21 Old Pilgrim Ave. ,Ruskin,FL,138,Real
+Leading Bar,25.787075,-80.183136,Leland ave,Miami,FL,835,Real
+Glow Bar,38.348362,-75.05639,782 Cypress St. ,Ocean City,MD,74,Real
+Kamakazi Bar,37.77889,-122.252174,Lapeer st,Alameda,CA,209,Real
+Element Bar,35.16886,-120.75402,461 Grant Street ,Avila Beach,CA,113,Real
+Horizon Restaurant,43.65672,-70.24978,Thomasville street,Portland,ME,651,Real
+Hook Restaurant,36.958992,-122.018326,2 S. Grand Ave. ,Santa Cruz,CA,249,Real
+Constellation Restaurant,34.00857,-118.49821,West Orange st,Santa Monica,CA,257,Real
+Tech Restaurant,36.604816,-121.8923,88 King Street ,Monterey,CA,98,Real
+Stamina Restaurant,34.008198,-118.49771,Kings Mountain,Santa Monica,CA,212,Real
+Zip Restaurant,40.694042,-74.00306,582 Tanglewood Dr. ,New York,NY,877,Real
+Phenom Restaurant,39.357574,-74.4192,Land O Lakes dr,Atlantic City,NJ,135,Real
+Beast Restaurant,26.087458,-80.11963,7920 Canal Road ,Hollywood,FL,82,Real
+Ment Restaurant,30.389551,-87.18303,Rome st,Gulf Breeze,FL,203,Real
+Hypnotic Restaurant,37.455307,-121.92898,7622 Rock Creek St. ,San Jose,CA,198,Real
+Launch Restaurant,47.601227,-122.33782,Simpsonville rd,Seattle,WA,119,Real
+Handmade Restaurant,43.656437,-70.24996,18 West Peninsula Street ,Portland,ME,1985,Real
+Plasma Restaurant,43.653572,-70.251305,Wayne dr,Portland,ME,111,Private
